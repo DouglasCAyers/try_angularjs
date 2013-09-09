@@ -1,5 +1,0 @@
-{"ts":1378697523441,"silentsave":true,"restoring":false,"patch":[[]],"length":0}
-{"contributors":[],"silentsave":false,"ts":1378697525867,"patch":[[{"diffs":[[1,".done-true {\r\n  text-decoration: line-through;\r\n  color: grey;\r\n}"]],"start1":0,"start2":0,"length1":0,"length2":65}]],"length":65,"saved":false}
-{"contributors":[],"silentsave":false,"ts":1378698006564,"patch":[[{"diffs":[[0,"grey;\r\n}"],[1,";"]],"start1":57,"start2":57,"length1":8,"length2":9}]],"length":66,"saved":false}
-{"ts":1378698020489,"patch":[[{"diffs":[[0,": gr"],[-1,"e"],[1,"a"],[0,"y;\r\n}"],[-1,";"]],"start1":55,"start2":55,"length1":11,"length2":10}]],"length":65,"saved":false}
-{"contributors":[],"silentsave":false,"ts":1378698978432,"patch":[[{"diffs":[[0,"."],[1,"to"],[0,"do"],[-1,"ne"],[0,"-tru"]],"start1":0,"start2":0,"length1":9,"length2":9}]],"length":65,"saved":false}
