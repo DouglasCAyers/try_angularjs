@@ -17,19 +17,28 @@
 			/*
 				Provide defaults per angular ui-bootstrap instructions
 				http://angular-ui.github.io/bootstrap/
-			*/
+			 */
 			.nav, .pagination, .carousel, .panel-title a { cursor: pointer; }
 
 			/*
 				Bootstrap Starter Template
 				http://getbootstrap.com/examples/starter-template/
-			*/
+			 */
 			body {
 			  padding-top: 50px;
 			}
 			.starter-template {
 			  padding: 40px 15px;
 			  text-align: center;
+			}
+
+			/*
+				Custom Styles
+			 */
+
+			.strike {
+				text-decoration: line-through;
+				color: #A0A0A0;
 			}
 
 		</style>
@@ -76,11 +85,14 @@
 				http://campus.codeschool.com/courses/shaping-up-with-angular-js/level/1/section/2/video/1
 			-->
 			<div ng-controller="StoreController as store" class="row">
-				<div class="col-md-4">
-					<h1> Product Name </h1>
-					<h2> Product Price </h2>
-					<p> Product Desc </p>
-				</div>
+				<ul class="lsit-group">
+					<li class="list-group-item" ng-repeat="product in store.products">
+						<h3 ng-class="{strike: product.soldOut}">
+							{{product.name}}
+							<em class="pull-right">{{product.price | currency}}</em>
+						</h3>
+					</li>
+				</ul>
 			</div>
 
 		</div><!--/container-->
