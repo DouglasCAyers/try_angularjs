@@ -1,0 +1,554 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cancel",
+				"cancelURL"
+			],
+			[
+				"std",
+				"stdController"
+			],
+			[
+				"current",
+				"currentPage"
+			],
+			[
+				"us",
+				"isUserOnCallToday"
+			],
+			[
+				"is",
+				"is_assigned_to_me__c"
+			],
+			[
+				"bmc",
+				"bmcrf_on_call_record__c"
+			],
+			[
+				"output",
+				"apex:outputText"
+			],
+			[
+				"sele",
+				"apex:selectOption"
+			],
+			[
+				"i",
+				"id	(String)"
+			],
+			[
+				"l",
+				"itemLabel	(String)"
+			],
+			[
+				"sel",
+				"apex:selectOption"
+			],
+			[
+				"selec",
+				"apex:selectRadio"
+			],
+			[
+				"BMc",
+				"BMCRF_On_Call_Record__c	[Sobject Name]"
+			],
+			[
+				"inc",
+				"apex:includeScript"
+			],
+			[
+				"re",
+				"readonly	(Boolean)"
+			],
+			[
+				"cur",
+				"currentPage"
+			],
+			[
+				"t",
+				"helpText	(String)"
+			],
+			[
+				"previo",
+				"previousRecord"
+			],
+			[
+				"BMCRF",
+				"BMCRF_On_Call_Record__c	[Sobject Name]"
+			],
+			[
+				"d",
+				"disabled	(Boolean)"
+			],
+			[
+				"page",
+				"apex:pageMessage"
+			],
+			[
+				"la",
+				"apex:outputLabel"
+			],
+			[
+				"a",
+				"PUBLIC addFields(LIST<String> fieldNames) 	void"
+			],
+			[
+				"out",
+				"apex:outputField"
+			],
+			[
+				"get",
+				"PUBLIC getRecord() 	SObject"
+			],
+			[
+				"c",
+				"columns	(Integer)"
+			],
+			[
+				"set",
+				"PUBLIC setRedirect(Boolean redirect) 	System.PageReference"
+			],
+			[
+				"sta",
+				"StandardController"
+			],
+			[
+				"r",
+				"required	(Boolean)"
+			],
+			[
+				"BMC",
+				"BMCRF_On_Call_Record__c	[Sobject Name]"
+			],
+			[
+				"header",
+				"headerValue	(String)"
+			],
+			[
+				"s",
+				"sidebar	(Boolean)"
+			],
+			[
+				"pageblo",
+				"apex:pageBlockButtons"
+			],
+			[
+				"pagebloc",
+				"apex:pageBlockSection"
+			],
+			[
+				"head",
+				"headerValue	(String)"
+			],
+			[
+				"queue",
+				"queueMemberToAdd"
+			],
+			[
+				"add",
+				"PUBLIC addAll(LIST elements) 	Boolean"
+			],
+			[
+				"secondary",
+				"secondaryContactIds"
+			],
+			[
+				"input",
+				"apex:inputHidden"
+			],
+			[
+				"substr",
+				"substringIdBefore"
+			],
+			[
+				"conv",
+				"convertedOpportunityId"
+			],
+			[
+				"ACCOU",
+				"ACCOUNT_RECORD_TYPE_INFO"
+			],
+			[
+				"OPP",
+				"OPPORTUNITY_RECORD_TYPE_NAME"
+			],
+			[
+				"CONT",
+				"CONTACT_RECORD_TYPE_NAME"
+			],
+			[
+				"ACC",
+				"ACCOUNT_RECORD_TYPE_NAME"
+			],
+			[
+				"Contact",
+				"Contact"
+			],
+			[
+				"oppo",
+				"OPPORTUNITY_RECORD_TYPE_NAME"
+			],
+			[
+				"ACc",
+				"ACCOUNT_RECORD_TYPE_NAME"
+			],
+			[
+				"sOb",
+				"sObjectRecordTypeInfos"
+			],
+			[
+				"xref",
+				"xrefRecordTypeInfo"
+			],
+			[
+				"Conta",
+				"Contact"
+			],
+			[
+				"Acc",
+				"Account"
+			],
+			[
+				"SO",
+				"SObjectType"
+			],
+			[
+				"lead",
+				"LeadConversionTriggerHelper"
+			],
+			[
+				"Lead",
+				"LeadConversionException"
+			],
+			[
+				"sObj",
+				"sObjectName"
+			],
+			[
+				"converted",
+				"convertedSObjectId"
+			],
+			[
+				"Oppo",
+				"Opportunity_Record_Type_Name__c"
+			],
+			[
+				"Account",
+				"Account_Record_Type_Name__c"
+			],
+			[
+				"sObjec",
+				"sObjectType"
+			],
+			[
+				"sObjectn",
+				"sObjectName"
+			],
+			[
+				"sob",
+				"sObjectName"
+			],
+			[
+				"sObject",
+				"sObjectName"
+			],
+			[
+				"record",
+				"recordTypesByNameMap"
+			],
+			[
+				"do",
+				"doRecordTypeConversion"
+			],
+			[
+				"recordTypes",
+				"recordTypesByIdMap"
+			],
+			[
+				"getRecordTypes",
+				"getRecordTypesByIdMap"
+			],
+			[
+				"leadRecor",
+				"leadRecordTypesMap"
+			],
+			[
+				"account",
+				"accountRecordTypesMap"
+			],
+			[
+				"rec",
+				"recordsToUpdate"
+			],
+			[
+				"update",
+				"updateRecordsInBatches"
+			],
+			[
+				"sO",
+				"sObjectType"
+			],
+			[
+				"accou",
+				"accountsToUpdate"
+			],
+			[
+				"con",
+				"convertedAccountId"
+			],
+			[
+				"upda",
+				"updateConvertedOpportunitiesRecordTypes"
+			],
+			[
+				"updateconv",
+				"updateConvertedContactsRecordTypes"
+			],
+			[
+				"lea",
+				"LeadConversionTriggerHelper"
+			],
+			[
+				"conver",
+				"convertedAccountId"
+			],
+			[
+				"LeadC",
+				"LeadConversionTriggerHelper"
+			],
+			[
+				"name",
+				"name"
+			],
+			[
+				"si",
+				"PUBLIC size() 	Integer"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 58.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Doug/workspace/try_angularjs/CodeSchool-AngularJS.sublime-project",
+		"/C/Users/Doug/workspace/try_angularjs/webapp/index.html",
+		"/C/Users/Doug/workspace/try_angularjs/webapp/app.js",
+		"/C/Users/Doug/workspace/CodeSchool-AngularJS/webapp/ui-bootstrap-0.11.0.min.js",
+		"/C/Users/Doug/workspace/CodeSchool-AngularJS/webapp/index.html",
+		"/C/Users/Doug/workspace/Salesforce-Sandbox/src/pages/BMCRF_OnCall_Schedule_Page.page",
+		"/C/Users/Doug/workspace/Salesforce-Sandbox/src/pages/BMCRF_OnCall_Edit_Page.page",
+		"/C/Users/Doug/workspace/Salesforce-Sandbox/src/pages/BMCRF_OnCall_View_Page.page",
+		"/C/Users/Doug/workspace/Salesforce-Sandbox/src/classes/BMCRFOnCallEditController.cls",
+		"/C/Users/Doug/workspace/Salesforce-Sandbox/src/classes/BMCRFOnCallScheduleController.cls",
+		"/C/Users/Doug/workspace/Salesforce-Sandbox/src/pages/BMCRF_Queue_Member_Assignment_Page.page",
+		"/C/Users/Doug/workspace/Salesforce-Sandbox/src/classes/BMCRFQueueMemberAssignmentController.cls",
+		"/C/Users/Doug/workspace/Salesforce-Sandbox/src/objects/BMCRF_On_Call_Record__c.object",
+		"/C/Users/Doug/workspace/Salesforce-Sandbox/src/package.xml",
+		"/C/Users/Doug/workspace/Salesforce-Sandbox/src/classes/BMCRFOnCallController.cls",
+		"/C/Users/Doug/workspace/Salesforce-Sandbox/src/classes/BMCRF_OnCallController.cls",
+		"/C/Users/Doug/workspace/Salesforce-Sandbox/src/pages/BMCRFOnCallSchedulePage.page",
+		"/C/Users/Doug/Desktop/My_Event.ics",
+		"/C/Users/Doug/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Doug/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Doug/workspace/Salesforce-Sandbox/src/classes/ITContactRelationshipTriggerHelper.cls",
+		"/C/Users/Doug/workspace/Salesforce-Sandbox/src/pages/BMCRF_QueueMemberAssignmentPage.page",
+		"/C/Users/Doug/workspace/Salesforce-Sandbox/src/pages/BMCRFQueueMemberAssignmentPage.page",
+		"/C/Users/Doug/workspace/Salesforce-Sandbox/src/triggers/ContactTrigger.trigger",
+		"/C/Users/Doug/workspace/Salesforce-Sandbox/src/pages/IT_Primary_Contact_Edit_Redirect.page",
+		"/C/Users/Doug/workspace/Salesforce-Sandbox/src/pages/IT_Primary_Contact_Edit_Redirect.page-meta.xml",
+		"/C/Users/Doug/workspace/Salesforce-Sandbox/src/pages/IT_Secondary_Contact_Edit_Override.page",
+		"/C/Users/Doug/AppData/Roaming/Sublime Text 3/Packages/User/mavensmate.sublime-settings",
+		"/C/Users/Doug/AppData/Roaming/Sublime Text 3/Packages/MavensMate/mavensmate.sublime-settings"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"isUser",
+			"delete",
+			"refresh",
+			" rendered=\"{!NOT(ISBLANK(record.ownerId))}\">",
+			"<",
+			">",
+			"Layout",
+			"layout",
+			"secondary__r",
+			"primary__r",
+			"delete line",
+			"                \n",
+			"Primary_Contact",
+			"Primary",
+			"TEXT( SRM_Second_Most_Recent_Audit__r.Audit_Ranking_Old__c )",
+			"TEXT( SRM_Most_Recent_Audit__r.Audit_Ranking_Old__c )",
+			"TEXT( SRM_Second_Most_Recent_Audit__r.Audit_Ranking_Old__c ) == null",
+			"TEXT( SRM_Most_Recent_Audit__r.Audit_Ranking_Old__c ) == null",
+			"toggleReadObjectCheckbox",
+			"LeadConversionException",
+			"reject",
+			"rejectconv",
+			"LogLevel.",
+			"Type_API_Name",
+			"color",
+			"color_",
+			"white",
+			"rt",
+			"doesqueue"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			">",
+			"&lt;",
+			"&gt;",
+			"tertiary__r",
+			"secondary__r",
+			"Secondary_Contact",
+			"Secondary",
+			"SRM_Second_Most_Recent_Audit__r.Audit_Ranking__c",
+			"SRM_Most_Recent_Audit__r.Audit_Ranking__c",
+			"ISBLANK( SRM_Second_Most_Recent_Audit__r.Audit_Ranking__c )",
+			"ISBLANK( SRM_Most_Recent_Audit__r.Audit_Ranking__c )",
+			"LoggingLevel.",
+			"Type_Name",
+			"rts"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.MavensMate-OutputPanel":
+	{
+		"height": 142.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "try_angularjs.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 372.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
